@@ -1,0 +1,9 @@
+{
+    "interval":5000,
+    "display": {
+        "cpuUsage": true,
+        "memoryUsage": true,
+        "systemUptime": true,
+        "nodeUptime": true
+      }
+}
